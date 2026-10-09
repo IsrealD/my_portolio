@@ -1,0 +1,7 @@
+# robots.txt for darasimioni.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location for crawlers
+Sitemap: https://darasimioni.com/sitemap.xml
